@@ -7,6 +7,9 @@
   "autoload": {
     "psr-4": {
       "Aidaojia\\Common\\": "."
-    }
+    },
+    "files": [
+      "./Helpers.php"
+    ]
   }
 }
